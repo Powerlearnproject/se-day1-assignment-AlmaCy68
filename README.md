@@ -82,7 +82,18 @@ Balancing speed and code quality- Developing software quickly without sacrificin
 strategy can be establishing coding standards and conducting regular code reviews.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Unit- it focuses on the individual components or functions of the software in isolation. Typically performed by developers and automated using testing frameworks.
+Importance include: Helping catch the bugs early in development.
 
+Integration Testing- Checks how different units or modules intereract when combined. it ensures that data flows correctly between integrated compnents.
+Importance include: Dtecting issues related to commuunication between modules.
+
+Ststem testing- evaluates the complex and integrated system against the specified requirements. mostly conducted in an environment that closely resembles production.
+Importance: it ensures the entire system works as intended.
+
+Acceptance testing- determines whether the software meets the business requirements and is ready for deployment.
+importance: -validates real-world usage scenarios
+            -ensures the software meets business or user needs.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
@@ -95,3 +106,12 @@ Prompt engineering has helped to improved customer experience while interacting 
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague prompt
+"Talk about industrialization"
+Improved prompt
+"Highlight the benefits of th fifth industrial revolution in regard to the innovations that come with it and how Sustainable technology has impacted the Greenhouse emmisions"
+why improved prompt is more effective
+a) spacificity- fifth industrial revelotion instead of industrialization
+b) Clarity-Sustainable technology as the area of focus
+c) Conciseness- as much as it is detailed, it goes straight to the ppoint
+d) Relevance- it talks about greenhouse emmisions which is a real-world effect in the current world.
