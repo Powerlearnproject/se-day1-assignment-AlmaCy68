@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 Refers to the process of designing,developing, and maintaining softwares. Software development has brought about customer delivery whereby there is improved customer experience with the ongoing technology. 
-Foster Inoovation and Creativity- software engineering has come about with different innovations in the creative world thus impacting the delivery support in the technological frameworks. 
+Foster Inoovation and Creativity- Software engineering has come about with different innovations in the creative world thus impacting the delivery support in the technological frameworks. 
 Improved efficiency- software engineering has really improved efficiency in production industries where by we get realtime and readily available decisional support.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
